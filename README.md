@@ -12,6 +12,7 @@ place that in INDEX.HTML page at line 67 ]
 
 
 🧠 JARVIS AI Chatbot
+
 JARVIS is a web-based AI chatbot designed to simulate intelligent conversations with users, inspired by the futuristic assistant from Iron Man. It acts as a smart assistant capable of answering questions, performing tasks, and interacting in a natural, conversational manner.
 
 🚀 Features
