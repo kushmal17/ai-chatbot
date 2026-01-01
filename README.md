@@ -5,20 +5,12 @@
 YOU CAN UPLOAD THE JARVIS BG VIDEO FROM THIS GIVEN LINK, and
 place that in INDEX.HTML page at line 67 ]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
 
 🧠 JARVIS AI Chatbot
 
